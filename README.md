@@ -1,9 +1,9 @@
-### Hi there 👋
+### HI Everyone 👋
+i have created this project for basic learning of ReactNative 
 
 <!--
 **M-RaghavaReddy/M-RaghavaReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-HI Everyone ,
-i have created this project for basic learning of ReactNative
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
